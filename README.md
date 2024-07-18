@@ -1,5 +1,11 @@
 # Hi, I'm Dhruv! 👋
-
+<p align="center">
+  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sarcasticdhruv&theme=holi-theme&hide_border=true" />
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=sarcasticdhruv&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square)
