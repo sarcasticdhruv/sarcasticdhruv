@@ -1,4 +1,3 @@
-```markdown
 ![Header](https://user-images.githubusercontent.com/your_image.png)
 
 # Hi, I'm Dhruv! 👋
