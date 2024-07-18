@@ -5,14 +5,14 @@
   </a>
 </p>
 
-  </br>
+<p align="center">
   </br>
   
   <a>
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarcasticdhruv&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=Jupyter%20Notebook >
-  
+    <img src=https://streak-stats.demolab.com/?user=sarcasticdhruv&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
   </br>
-
 
 </p>
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
