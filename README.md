@@ -5,13 +5,6 @@
   </a>
 </p>
 
-<p align="center">
-  </br>
-  
-  <a>
-    <img src=https://streak-stats.demolab.com/?user=sarcasticdhruv&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
   </br>
   </br>
   
@@ -20,9 +13,11 @@
   
   </br>
 
+
 </p>
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
 
+</br>
 </br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square)
