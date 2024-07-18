@@ -1,7 +1,7 @@
 # Hi, I'm Dhruv! 👋
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,godot,py,blender,neovim,bash,git" />
+    <img src="https://skillicons.dev/icons?i=linux,py,cpp,javascript,typescript,bash,git" />
   </a>
 </p>
 
@@ -16,17 +16,14 @@
   </br>
   
   <a>
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarcasticdhruv&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarcasticdhruv&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=Jupyter%20Notebook >
   
   </br>
-  </br>
 
-  <a>
-    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarcasticdhruv&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
-  </a>
-    
 </p>
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
+
+</br>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square)
 ![GitHub Followers](https://img.shields.io/github/followers/sarcasticdhruv?label=Follow&style=social)
