@@ -1,5 +1,3 @@
-![Header](https://user-images.githubusercontent.com/your_image.png)
-
 # Hi, I'm Dhruv! 👋
 
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
@@ -14,26 +12,17 @@ dhruv - Developer | Tech Enthusiast
 
 ## 🔧 Technologies & Tools
 
-```bash
-# Frontend
-- HTML5
-- CSS3
-- JavaScript
-- React
+My expertise spans a wide range of technologies and tools, enabling me to build robust, scalable, and innovative software solutions:
 
-# Backend
-- Node.js
-- Express
-- MongoDB
-```
+- **Programming Languages:** Python, C++
+- **Web Development:** 
+  - *Frontend:* HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript
+  - *Backend:* Node.js, Express
+- **Database Management:** MongoDB, Firebase
 
 ## 🧑‍💻 Projects
 
-```bash
-# Fire Notes
-Real-time note-taking application with Firebase and React.
-[GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
-
+- **Fire Notes** - Real-time note-taking application with Firebase and React. [GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
 
 ## 🌐 Connect with Me
 
@@ -43,5 +32,4 @@ Real-time note-taking application with Firebase and React.
 
 ```bash
 dhruv@github:~$ echo "Keep pushing the boundaries of technology!"
-```
 ```
