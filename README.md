@@ -22,7 +22,18 @@ My expertise spans a wide range of technologies and tools, enabling me to build 
 
 ## 🧑‍💻 Projects
 
-- **Fire Notes** - Real-time note-taking application with Firebase and React. [GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
+- **Portfolio** - My Portfolio project which howcases my skills, experience, and projects in a sleek, modern design.[GitHub](https://github.com/sarcasticdhruv/Portfolio) | [Live](https://developr-dhruv.netlify.app)
+
+- **Fire Notes** - Real-time note-taking application with Firebase. [GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
+
+- **Bank Management System** - This is a simple Bank Management System / ATM (Automated Teller Machine) system implemented in Python. [GitHub](https://github.com/sarcasticdhruv/Bank-Management-System)
+
+- **IPL Data Analysis** - The "IPL DATA Analysis 2023" project involves a detailed analysis of the dataset of the Indian Premier League (IPL) 2023. [GitHub](https://github.com/sarcasticdhruv/IPL-Data-Analysis-2023)
+
+- **Club Management System** - This Club Management System is a console-based application developed in C++. [GitHub](https://github.com/sarcasticdhruv/Club_Managment_System)
+
+
+
 
 ## 🌐 Connect with Me
 
