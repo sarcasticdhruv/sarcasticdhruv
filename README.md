@@ -22,7 +22,7 @@ My expertise spans a wide range of technologies and tools, enabling me to build 
 
 ## 🧑‍💻 Projects
 
-- **Portfolio** - My Portfolio project which howcases my skills, experience, and projects in a sleek, modern design.[GitHub](https://github.com/sarcasticdhruv/Portfolio) | [Live](https://developr-dhruv.netlify.app)
+- **Portfolio** - My Portfolio project which howcases my skills, experience, and projects in a sleek, modern design. [GitHub](https://github.com/sarcasticdhruv/Portfolio) | [Live](https://developer-dhruv.netlify.app)
 
 - **Fire Notes** - Real-time note-taking application with Firebase. [GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
 
