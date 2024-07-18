@@ -1,10 +1,30 @@
 # Hi, I'm Dhruv! 👋
 <p align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=sarcasticdhruv&theme=holi-theme&hide_border=true" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=sarcasticdhruv&show_icons=true&theme=github_dark&hide_border=true" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,godot,py,blender,neovim,bash,git" />
+  </a>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=github_dark&hide_border=true"/>
+  </br>
+  
+  <a>
+    <img src=https://streak-stats.demolab.com/?user=sarcasticdhruv&&theme=tokyonight&&hide_border=true&card_width=495>
+  </a>
+   
+  </br>
+  </br>
+  
+  <a>
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sarcasticdhruv&hide_border=true&langs_count=5&show_icons=true&card_width=495&theme=tokyonight&hide=javascript,html,css>
+  
+  </br>
+  </br>
+
+  <a>
+    <img src=https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sarcasticdhruv&hide_border=true&show_icons=true&theme=tokyonight&card_width=495 />
+  </a>
+    
 </p>
 Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
 
