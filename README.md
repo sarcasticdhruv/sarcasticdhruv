@@ -22,6 +22,10 @@
 
 
 </div>
+<div align="center">
+<img src="https://raw.githubusercontent.com/sarcasticdhruv/sarcasticdhruv/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
+
 
 ---
 
