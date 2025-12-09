@@ -16,8 +16,9 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com/?user=sarcasticdhruv&theme=radical&hide_border=true&background=0D1117" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
+![GitHub Streak](https://streak-stats.demolab.com/?user=sarcasticdhruv&theme=radical&hide_border=true&background=0D1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117)
+
 
 </div>
 
@@ -62,4 +63,4 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square&color=blue)
 
 </div>
-````
+

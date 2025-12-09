@@ -1,0 +1,21 @@
+# SSH Keys
+id_ed25519_sarcasticdhruv
+id_ed25519_sarcasticdhruv.pub
+
+# General sensitive files
+*.pem
+*.key
+*.env
+.env.local
+.env.*.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
