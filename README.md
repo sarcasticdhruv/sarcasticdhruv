@@ -1,64 +1,65 @@
-# Hi, I'm Dhruv! 👋
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,cpp,javascript,typescript,bash,git" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  </br>
-  
-  <a>
-    <img src=https://streak-stats.demolab.com/?user=sarcasticdhruv&&theme=tokyonight&&hide_border=true&card_width=495>
-  </a>
-   
-  </br>
+<img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=600&size=30&pause=1000&color=3F51B5&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Dhruv!;Building+Scalable+Softwares;Exploring+New+Tech" alt="Typing SVG" />
 
-</p>
-Welcome to my GitHub profile! I'm passionate about software development and love working on innovative projects.
+<a href="https://github.com/sarcasticdhruv">
+  <img src="https://img.shields.io/github/followers/sarcasticdhruv?label=Followers&style=social" alt="Followers" />
+</a>
 
-</br>
-</br>
+<br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square)
-![GitHub Followers](https://img.shields.io/github/followers/sarcasticdhruv?label=Follow&style=social)
+**Passionate Software Developer | Open Source Contributor | Tech Explorer**
 
-```bash
-dhruv@github:~$ whoami
-dhruv - Developer | Tech Enthusiast
-```
+<br/>
 
-## 🔧 Technologies & Tools
+<img src="https://skillicons.dev/icons?i=py,cpp,js,ts,react,nodejs,express,mongodb,firebase,tailwind,git,linux&perline=12" />
 
-My expertise spans a wide range of technologies and tools, enabling me to build robust, scalable, and innovative software solutions:
+<br/><br/>
 
-- **Programming Languages:** Python, C++
-- **Web Development:** 
-  - *Frontend:* HTML5, CSS3, JavaScript, React, Tailwind CSS, TypeScript
-  - *Backend:* Node.js, Express
-- **Database Management:** MongoDB, Firebase
+<img src="https://streak-stats.demolab.com/?user=sarcasticdhruv&theme=radical&hide_border=true&background=0D1117" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="150" />
 
-## 🧑‍💻 Projects
+</div>
 
-- **Portfolio** - My Portfolio project which howcases my skills, experience, and projects in a sleek, modern design. [GitHub](https://github.com/sarcasticdhruv/Portfolio) | [Live](https://developer-dhruv.netlify.app)
+---
 
-- **Fire Notes** - Real-time note-taking application with Firebase. [GitHub](https://github.com/sarcasticdhruv/Fire-Notes) | [Live](https://firexnotes.netlify.app)
+### 📂 `~/projects`
 
-- **Bank Management System** - This is a simple Bank Management System / ATM (Automated Teller Machine) system implemented in Python. [GitHub](https://github.com/sarcasticdhruv/Bank-Management-System)
+| Permission | Project Name | Description | Stack | Status |
+| :--- | :--- | :--- | :--- | :--- |
+| `rwx` | [**Brain Tumor Detection**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Brain-Tumor-Detection) | Deep Learning model for classifying brain tumor types from MRI scans. | `TensorFlow` `Python` `OpenCV` | 🟢 Active |
+| `rwx` | [**Matrix Portfolio**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Matrix-Portfolio) | Personal portfolio designed with a dynamic, matrix code rain aesthetic. | `React` `JavaScript` `CSS` | 🟢 Live |
+| `rwx` | [**Fire Notes**](https://github.com/sarcasticdhruv/Fire-Notes) | Real-time note-taking application with secure cloud sync. | `Firebase` `React` | 🟢 Live |
+| `r-x` | [**Evolutionary Simulations**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Evolutionary-Simulations) | Simulations exploring genetic algorithms and natural selection principles. | `Python` `NumPy` | ⚪ Research |
+| `r-x` | [**Board Brief**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Board-Brief) | Consolidated dashboard for tracking personal metrics and tasks. | `Node.js` `MongoDB` | ⚪ Development |
 
-- **IPL Data Analysis** - The "IPL DATA Analysis 2023" project involves a detailed analysis of the dataset of the Indian Premier League (IPL) 2023. [GitHub](https://github.com/sarcasticdhruv/IPL-Data-Analysis-2023)
+<br>
 
-- **Club Management System** - This Club Management System is a console-based application developed in C++. [GitHub](https://github.com/sarcasticdhruv/Club_Managment_System)
+<details>
+<summary>⚡ <b>Click to see what I'm learning right now</b></summary>
+<br/>
+<ul>
+    <li>Exploring <b>System Design</b> concepts</li>
+    <li>Deep diving into <b>Cloud Architecture</b></li>
+    <li>Refining data structures in <b>C++</b></li>
+</ul>
+</details>
 
+---
 
+<div align="center">
 
+### 🤝 **Let's Connect**
 
-## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/dhruv-choudhary-india">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="mailto:sarcasticdhruv100@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" />
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-choudhary-india)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/sarcasticdhruv)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sarcasticdhruv100@gmail.com)
+<br/><br/>
+![Profile Views](https://komarev.com/ghpvc/?username=sarcasticdhruv&style=flat-square&color=blue)
 
-```bash
-dhruv@github:~$ echo "Keep pushing the boundaries of technology!"
-```
+</div>
+````
