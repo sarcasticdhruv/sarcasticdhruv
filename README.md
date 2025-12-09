@@ -16,7 +16,8 @@
 
 <br/><br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=sarcasticdhruv&theme=blue-green&hide_border=false&border_radius=8&stroke=007ACC&background=0D1117&ring=00FFEA&fire=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=sarcasticdhruv&theme=radical&hide_border=false&background=0D1117)
+
 
 <!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarcasticdhruv&layout=compact&theme=radical&hide_border=true&bg_color=0D1117) -->
 
