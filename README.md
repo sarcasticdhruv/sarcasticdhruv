@@ -29,11 +29,13 @@
 
 | Permission | Project Name | Description | Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| `rwx` | [**Brain Tumor Detection**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Brain-Tumor-Detection) | Deep Learning model for classifying brain tumor types from MRI scans. | `TensorFlow` `Python` `OpenCV` | 🟢 Active |
-| `rwx` | [**Matrix Portfolio**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Matrix-Portfolio) | Personal portfolio designed with a dynamic, matrix code rain aesthetic. | `React` `JavaScript` `CSS` | 🟢 Live |
-| `rwx` | [**Fire Notes**](https://github.com/sarcasticdhruv/Fire-Notes) | Real-time note-taking application with secure cloud sync. | `Firebase` `React` | 🟢 Live |
-| `r-x` | [**Evolutionary Simulations**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Evolutionary-Simulations) | Simulations exploring genetic algorithms and natural selection principles. | `Python` `NumPy` | ⚪ Research |
-| `r-x` | [**Board Brief**](https://www.google.com/search?q=https://github.com/sarcasticdhruv/Board-Brief) | Consolidated dashboard for tracking personal metrics and tasks. | `Node.js` `MongoDB` | ⚪ Development |
+| `rwx` | [**Helix Agent**](https://github.com/sarcasticdhruv/helix-agent) | Production AI agent framework with hard budget limits, semantic caching (40–70% cost cuts), persistent memory, multi-agent teams, and YAML-based task pipelines. | `Python` | 🟢 Active |
+| `rwx` | [**Celestia**](https://celestia-sky.onrender.com/) | Web-based stargazing app with real-time astronomical data (stars, planets, DSOs, Moon phases, constellations) using Meeus algorithms. | `React` `Python` `FastAPI` | 🟢 Live |
+| `rwx` | [**Brain Tumor Detection**](https://neurostem.onrender.com/) | Deep learning app for classifying brain tumor types from MRI scans using a fine-tuned ResNet-18 model. | `PyTorch` `React` `TypeScript` `FastAPI` | 🟢 Live |
+| `rwx` | [**Matrix Portfolio**](https://github.com/sarcasticdhruv/Matrix-Portfolio) | Personal portfolio designed with a dynamic, matrix code rain aesthetic. | `React` `JavaScript` `CSS` | 🟢 Live |
+| `rwx` | [**Fire Notes**](https://firexnotes.netlify.app/) | Real-time note-taking application with secure cloud sync. | `Firebase` `React` | 🟢 Live |
+| `r-x` | [**Evolutionary Simulations**](https://github.com/sarcasticdhruv/Evolutionary-Simulations) | Simulations exploring genetic algorithms and natural selection principles. | `Python` `NumPy` | ⚪ Research |
+| `r-x` | [**Board Brief**](https://github.com/sarcasticdhruv/Board-Brief) | Consolidated dashboard for tracking personal metrics and tasks. | `Node.js` `MongoDB` | ⚪ Development |
 
 <br>
 
