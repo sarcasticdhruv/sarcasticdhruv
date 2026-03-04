@@ -33,7 +33,7 @@
 
 | Permission | Project Name | Description | Stack | Status |
 | :--- | :--- | :--- | :--- | :--- |
-| `rwx` | [**Helix Agent**](https://github.com/sarcasticdhruv/helix-agent) | Production AI agent framework with hard budget limits, semantic caching (40–70% cost cuts), persistent memory, multi-agent teams, and YAML-based task pipelines. | `Python` | 🟢 Active |
+| `rwx` | [**Helix Agent**](https://github.com/sarcasticdhruv/helix-agent) | Production AI agent framework with hard budget limits, semantic caching (40–70% cost cuts), persistent memory, multi-agent teams, and YAML-based task pipelines. | `Python` `AI Agent orchestration` | 🟢 [Live ↗](https://pypi.org/project/helix-framework/) |
 | `rwx` | [**Celestia**](https://celestia-sky.onrender.com/) | Web-based stargazing app with real-time astronomical data (stars, planets, DSOs, Moon phases, constellations) using Meeus algorithms. | `React` `Python` `FastAPI` | 🟢 [Live ↗](https://celestia-sky.onrender.com/) |
 | `rwx` | [**Brain Tumor Detection**](https://neurostem.onrender.com/) | Deep learning app for classifying brain tumor types from MRI scans using a fine-tuned ResNet-18 model. | `PyTorch` `React` `TypeScript` `FastAPI` | 🟢 [Live ↗](https://neurostem.onrender.com/) |
 | `rwx` | [**Matrix Portfolio**](https://github.com/sarcasticdhruv/Matrix-Portfolio) | Personal portfolio designed with a dynamic, matrix code rain aesthetic. | `React` `JavaScript` `CSS` | 🟢 Live |
